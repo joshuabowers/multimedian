@@ -1,6 +1,6 @@
 name: multimedian
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "Provides high-level multimedia conversions targeting popular platforms via FFMpeg."
+description: "Capable of converting anything FFMpeg can handle, Multimedian acts as a wrapper library for driving the command-line options needed to get FFMpeg to work properly. Provides common encoding schemes to enable quick conversions in a uniform way."
 license: MIT
 authors: Joshua Bowers
 email: joshua.bowers+code@gmail.com
