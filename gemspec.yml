@@ -1,0 +1,11 @@
+name: multimedian
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: Joshua Bowers
+email: joshua.bowers+code@gmail.com
+homepage: https://rubygems.org/gems/multimedian
+
+development_dependencies:
+  bundler: ~> 1.0
+  yard: ~> 0.7
